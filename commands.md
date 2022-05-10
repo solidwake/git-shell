@@ -7,11 +7,11 @@
 3. git branch -M main
 4. git push -u origin main
 5. git init
-5. git add .
-6. git status
-7. git branch
-8. git checkout -b repo-name-branch
-9. git commit -m "commit message"
-10. git push origin repo-name-branch
-11. git merge repo-name-branch
-12. git add README.md && git commit -m "Add README"
+6. git add .
+7. git status
+8. git branch
+9. git checkout -b repo-name-branch
+10. git commit -m "commit message"
+11. git push origin repo-name-branch
+12. git merge repo-name-branch
+13. git add README.md && git commit -m "Add README"
