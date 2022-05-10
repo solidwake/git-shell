@@ -13,3 +13,4 @@
 8. git checkout -b repo-name-branch
 9. git commit -m "commit message"
 10. git push origin repo-name-branch
+11. git merge repo-name-branch
