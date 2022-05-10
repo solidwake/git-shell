@@ -14,3 +14,4 @@
 9. git commit -m "commit message"
 10. git push origin repo-name-branch
 11. git merge repo-name-branch
+12. git add README.md && git commit -m "Add README"
